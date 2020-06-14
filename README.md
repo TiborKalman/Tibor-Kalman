@@ -11,3 +11,6 @@ It's midi based.
 
 Since I will not sell the whole thing, but publish it freely, it does not look that great.
 It currently only works monophonically.
+
+Website: http://kalman.website
+E-Mail: tibor@kalman.website
